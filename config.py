@@ -1,4 +1,4 @@
-TOKEN = '5955702225:AAHNwmn_JnME5IlxPcx0ec07YBMuUmwdPq8'
+TOKEN = 'Put your token here'
 
 currency = {'рубль': 'RUB',
             'юань': 'CNY',
